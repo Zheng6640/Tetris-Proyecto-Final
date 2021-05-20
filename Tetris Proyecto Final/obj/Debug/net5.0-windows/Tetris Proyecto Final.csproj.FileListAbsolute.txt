@@ -1,0 +1,40 @@
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\Tetris Proyecto Final.exe
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\Tetris Proyecto Final.deps.json
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\Tetris Proyecto Final.runtimeconfig.json
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\Tetris Proyecto Final.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\Tetris Proyecto Final.dll
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\ref\Tetris Proyecto Final.dll
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\Tetris Proyecto Final.pdb
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris_Proyecto_Final.Form1.resources
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.dll
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\ref\Tetris Proyecto Final.dll
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.pdb
+C:\Users\Usuario\Desktop\proyecto final\prueba 1\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\Tetris Proyecto Final.exe
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\Tetris Proyecto Final.deps.json
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\Tetris Proyecto Final.runtimeconfig.json
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\Tetris Proyecto Final.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\Tetris Proyecto Final.dll
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\ref\Tetris Proyecto Final.dll
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\bin\Debug\net5.0-windows\Tetris Proyecto Final.pdb
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris_Proyecto_Final.Form1.resources
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.dll
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\ref\Tetris Proyecto Final.dll
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.pdb
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris Proyecto Final.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris_Proyecto_Final.Properties.Resources.resources
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris_Proyecto_Final.Form2.resources
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris_Proyecto_Final.Form3.resources
+C:\Users\Usuario\Desktop\proyecto final\prueba 3\Tetris Proyecto Final\Tetris Proyecto Final\obj\Debug\net5.0-windows\Tetris_Proyecto_Final.Form4.resources
